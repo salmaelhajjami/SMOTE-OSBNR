@@ -1,8 +1,7 @@
 # 📂 Data Folder
 
-This folder contains instructions and links to the datasets used in our experiments.  
+This folder contains links to the datasets used in our experiments.  
 Due to size and licensing constraints, the datasets are **NOT stored in this repository**.  
-Please download them from the official sources listed below and place them in this folder before running the experiments.
 
 ---
 
