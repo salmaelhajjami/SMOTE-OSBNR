@@ -25,12 +25,11 @@ This method significantly improves classification performance on highly imbalanc
 SMOTE-OSBNR/
 ├── README.md                # Project documentation
 ├── LICENSE                  # License file
-├── requirements.txt         # Dependencies
 ├── smote_osbnr.py           # Core implementation
-├── Experiments/             # Jupyter notebooks for experiments
+├── Experiments/             # Jupyter notebook for experiments
 │   └── fraud_detection.ipynb
-├── Datasets/                    # (Optional: instructions for downloading datasets)
+├── Datasets/                  
 │   └── README.md
-└── Results/                 # Performance plots and metrics
+└── Results/                 # Performance results 
 
 
