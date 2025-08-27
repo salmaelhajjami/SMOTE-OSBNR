@@ -27,10 +27,10 @@ SMOTE-OSBNR/
 ├── LICENSE                  # License file
 ├── requirements.txt         # Dependencies
 ├── smote_osbnr.py           # Core implementation
-├── experiments/             # Jupyter notebooks for experiments
+├── Experiments/             # Jupyter notebooks for experiments
 │   └── fraud_detection.ipynb
-├── data/                    # (Optional: instructions for downloading datasets)
+├── Datasets/                    # (Optional: instructions for downloading datasets)
 │   └── README.md
-└── results/                 # Performance plots and metrics
+└── Results/                 # Performance plots and metrics
 
 
