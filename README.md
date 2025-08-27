@@ -33,9 +33,4 @@ SMOTE-OSBNR/
 │   └── README.md
 └── results/                 # Performance plots and metrics
 
-## 🔧 Installation
-Clone the repository and install dependencies:
-```bash
-git clone https://github.com/your-username/SMOTE-OSBNR.git
-cd SMOTE-OSBNR
-pip install -r requirements.txt
+
